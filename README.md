@@ -6,6 +6,7 @@ The result of rotation of 18 degrees:
 ![untitled](https://github.com/user-attachments/assets/2c87d38e-7c44-43e0-8302-2e57a974ed46)
 
 Jones vector to Stokes vector:
+
 `*S0 = cx*conj(cx)+cy*conj(cy)*`
 
 `*S1 = cx*conj(cx)-cy*conj(cy)*`
