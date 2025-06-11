@@ -1,4 +1,5 @@
-Reproduction file of "Arbitrarily polarized bound states in the continuum with twisted photonic crystal slabs" using COMSOL 6.3
+Reproduction file of 
+"Arbitrarily polarized bound states in the continuum with twisted photonic crystal slabs" using COMSOL 6.3
 
 See "Twisted BIC cleared v63.mph"
 
